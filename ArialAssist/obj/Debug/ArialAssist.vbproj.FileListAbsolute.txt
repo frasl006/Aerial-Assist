@@ -1,0 +1,14 @@
+C:\Users\61402\source\repos\ArialAssist\ArialAssist\bin\Debug\ArialAssist.exe.config
+C:\Users\61402\source\repos\ArialAssist\ArialAssist\bin\Debug\ArialAssist.exe
+C:\Users\61402\source\repos\ArialAssist\ArialAssist\bin\Debug\ArialAssist.pdb
+C:\Users\61402\source\repos\ArialAssist\ArialAssist\bin\Debug\ArialAssist.xml
+C:\Users\61402\source\repos\ArialAssist\ArialAssist\obj\Debug\ArialAssist.vbprojAssemblyReference.cache
+C:\Users\61402\source\repos\ArialAssist\ArialAssist\obj\Debug\ArialAssist.Resources.resources
+C:\Users\61402\source\repos\ArialAssist\ArialAssist\obj\Debug\ArialAssist.vbproj.GenerateResource.cache
+C:\Users\61402\source\repos\ArialAssist\ArialAssist\obj\Debug\ArialAssist.vbproj.CoreCompileInputs.cache
+C:\Users\61402\source\repos\ArialAssist\ArialAssist\obj\Debug\ArialAssist.exe
+C:\Users\61402\source\repos\ArialAssist\ArialAssist\obj\Debug\ArialAssist.xml
+C:\Users\61402\source\repos\ArialAssist\ArialAssist\obj\Debug\ArialAssist.pdb
+C:\Users\61402\source\repos\ArialAssist\ArialAssist\obj\Debug\ArialAssist.Display.resources
+C:\Users\61402\source\repos\ArialAssist\ArialAssist\obj\Debug\ArialAssist.sa.resources
+C:\Users\61402\source\repos\ArialAssist\ArialAssist\obj\Debug\ArialAssist.Login.resources
